@@ -2,7 +2,7 @@
 ## Zahiir Peerbux
 ### CS y1 student
 
-- :computer: My projects are upload on github at [click-on-me](https://github.com/Peerbux-Muhammud-Zahiir/Peerbux-Muhammud-Zahiir/)
+- :computer: My projects are uploaded on github at [click-on-me](https://github.com/Peerbux-Muhammud-Zahiir/Peerbux-Muhammud-Zahiir/)
 
 - :open_hands: I regularly blog on [blogger.com](https://www.blogger.com/profile/17690102153672011029)
 
