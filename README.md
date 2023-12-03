@@ -1,6 +1,6 @@
 # whoami
 ## Zahiir Peerbux
-##### CS y1 student
+#### CS y1 student
 
 - :computer: My projects are uploaded on github at [click-to-see](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
 
