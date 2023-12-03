@@ -1,3 +1,3 @@
 - :wave: Hi, I’m <b>Zahiir</b> :sunglasses:
-- :trollface: I’m interested in <i>cybersecurity,cryptography,networking and web development</i>
+- :trollface: I’m interested in <i>  <style='color:red;'> cybersecurity,cryptography,networking and web development  </style>  </i>
 - :man_student: I’m currently learning C++,SQL,HTML and CSS
