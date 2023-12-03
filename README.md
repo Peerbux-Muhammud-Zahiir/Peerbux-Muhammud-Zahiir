@@ -1,4 +1,4 @@
-# whoami
+## whoami
 
 - Zahiir Peerbux
 - CS y1 student
