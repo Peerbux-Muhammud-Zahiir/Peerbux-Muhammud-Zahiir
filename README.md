@@ -1,7 +1,7 @@
 # whoami
 
-- : Zahiir Peerbux
-- : CS y1 student
+- Zahiir Peerbux
+- CS y1 student
 
 <h3>cd/work/</h3>
 <h3>ls</h3>
