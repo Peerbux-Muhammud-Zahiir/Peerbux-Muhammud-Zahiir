@@ -4,6 +4,7 @@
 <h3> CS y1 student</h3>
 
 <h3>cd/work/</h3>
+<h3>ls</h3>
 
 - :computer: My projects are uploaded on github at [click-to-see](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
 
@@ -11,7 +12,7 @@
 
 <h3>cd ..</h3>
 <h3>cd/'social media'/</h3>
-  
+<h3>ls</h3>
 <p align="left">
 <a href="https://www.instagram.com/m3455m4m3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Zahiir insta" height="40"/></a>   <a href="https://www.facebook.com/mnhjsnssm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Zahiir fb" height="40"/></a>
 </p>
