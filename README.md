@@ -3,7 +3,7 @@
 <h3> Zahiir Peerbux</h3>
 <h3> CS y1 student</h3>
 
-<h1>My works</h1>
+<h1>My work</h1>
 
 - :computer: My projects are uploaded on github at [click-to-see](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
 
