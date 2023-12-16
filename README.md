@@ -6,9 +6,9 @@
 <h3>cd /progress :bar_chart:/</h3>
 <h3>ls</h3>
 
-- :computer: [github-repo](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
+- [github-repo](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
 
-- :open_hands: [blogs](https://www.blogger.com/profile/17690102153672011029)
+- [blogs](https://www.blogger.com/profile/17690102153672011029)
 
 <h3>cd .. :rewind:</h3>
 <h3>cd /'social media' :bell:/</h3>
