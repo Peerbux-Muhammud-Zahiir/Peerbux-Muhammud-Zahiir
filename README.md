@@ -1,6 +1,6 @@
 <h3>whoami :interrobang:</h3>
 
-- Muhammud Peerbux(:point_right: Zahiir)
+- Muhammud Peerbux( :point_right: Zahiir)
 - CS y1 student
 
 <h3>cd /progress :bar_chart:/</h3>
