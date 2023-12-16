@@ -1,24 +1,24 @@
-<h3>whoami</h3>
+<h3>whoami :interrobang:</h3>
 
-- Muhammud Peerbux(better known as Zahiir)
+- Muhammud Peerbux(:point_right: Zahiir)
 - CS y1 student
 
-<h3>cd /progress/</h3>
+<h3>cd /progress :bar_chart:/</h3>
 <h3>ls</h3>
 
 - :computer: [github-repo](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
 
 - :open_hands: [blogs](https://www.blogger.com/profile/17690102153672011029)
 
-<h3>cd ..</h3>
-<h3>cd /'social media'/</h3>
+<h3>cd .. :rewind:</h3>
+<h3>cd /'social media' :bell:/</h3>
 <h3>ls</h3>
 <p align="left">
 <a href="https://www.instagram.com/m3455m4m3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Zahiir insta" height="40"/></a>  <a href="https://www.facebook.com/profile.php?id=61554075820310&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Zahiir fb" height="40"/></a>   
 </p>
 
-<h3>cd ..</h3>
-<h3>cd /skills/</h3>
+<h3>cd .. :rewind:</h3>
+<h3>cd /skills :runner:/</h3>
 <h3>ls</h3>
 <p align="left"> 
  
