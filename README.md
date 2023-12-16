@@ -1,20 +1,20 @@
-## whoami
+<h3>whoami</h3>
 
-- Zahiir Peerbux
+- Muhammud Peerbux(better known as Zahiir)
 - CS y1 student
 
 <h3>cd /progress/</h3>
 <h3>ls</h3>
 
-- :computer: My projects are uploaded on github at [click-to-see](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
+- :computer: [github-repo](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
 
-- :open_hands: I blog on [click-to-see](https://www.blogger.com/profile/17690102153672011029)
+- :open_hands: [blogs](https://www.blogger.com/profile/17690102153672011029)
 
 <h3>cd ..</h3>
 <h3>cd /'social media'/</h3>
 <h3>ls</h3>
 <p align="left">
-<a href="https://www.instagram.com/m3455m4m3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Zahiir insta" height="40"/></a>   
+<a href="https://www.instagram.com/m3455m4m3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Zahiir insta" height="40"/></a>  <a href="https://www.facebook.com/profile.php?id=61554075820310&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Zahiir fb" height="40"/></a>   
 </p>
 
 <h3>cd ..</h3>
