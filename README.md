@@ -29,6 +29,5 @@
 
   </p>
 
-  <h3>cd /</h3>
-  <h3>sudo rm -rf /*</h3>
-  :skull:
+  <h3>sudo shutdown -h now</h3>
+  
