@@ -1,6 +1,6 @@
 <h3>whoami :interrobang:</h3>
 
-- Muhammud Peerbux( :point_right: Zahiir)
+- PEERBUX Muhammud Zahiir
 - CS y1 student
 
 <h3>cd progress :bar_chart:/</h3>
@@ -8,7 +8,7 @@
 
 - [github-repo](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
 
-- [blogs](https://www.blogger.com/profile/17690102153672011029)
+- [blogs](https://www.blogger.com/profile/07510968635379733077)
 
 <h3>cd .. :rewind:</h3>
 <h3>cd 'social media' :bell:/</h3>
