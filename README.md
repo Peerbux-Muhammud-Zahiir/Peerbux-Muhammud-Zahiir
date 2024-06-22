@@ -2,9 +2,11 @@
 
 - Peerbux Muhammud Zahiir
   
-- Computer Science student @UoM
+- Computer Science
 
 - Year 1
+
+- University of Mauritius
 
 <h3>My progress</h3>
 
