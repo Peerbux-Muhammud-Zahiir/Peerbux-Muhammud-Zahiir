@@ -1,20 +1,19 @@
-# Peerbux Muhammud Zahiir - Profile  :wave::smiley:
+# Peerbux Muhammud Zahiir - Profile  :innocent:
 
-**Field of Study:** Computer Science  
-**Year:** 1  
-**University:** University of Mauritius
+**Field of Study:** Computer Science  :computer:
+**Year:** 1  :beginner:
+**University:** University of Mauritius :school:
+### My Achievements :running:
 
-### My Achievements
-
-- [GitHub Repositories](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories)
+- [GitHub Repositories](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories) 
 - [Blog Posts](https://www.blogger.com/profile/07510968635379733077)
 - [Google Drive](https://drive.google.com/drive/folders/11ObnpOsQPGefWHmAsQ-MHpO0ysW4zOpL)
 
-### Social Media Links
+### Social Media Links :selfie:
 
 - [LinkedIn](https://www.linkedin.com/in/peerbux-muhammud-zahiir-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-### Skills and Technologies
+### Skills and Technologies :toolbox:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">](https://www.w3schools.com/css/)
