@@ -11,7 +11,7 @@
 
 ### Social Media Links :selfie:
 
-- [LinkedIn](https://www.linkedin.com/in/peerbux-muhammud-zahiir-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### Skills and Technologies :toolbox:
 
