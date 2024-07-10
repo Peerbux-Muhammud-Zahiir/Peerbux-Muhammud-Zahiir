@@ -1,7 +1,7 @@
 # Peerbux Muhammud Zahiir - Profile  :innocent:
 
 **Field of Study:** Computer Science  :computer:
-**Year:** 1  :beginner:
+**Year:** 2  :beginner: 
 **University:** University of Mauritius :school:
 ### My Achievements :running:
 
