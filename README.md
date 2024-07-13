@@ -1,4 +1,4 @@
-# Peerbux Muhammud Zahiir :information_desk_person:
+# Peerbux Muhammud Zahiir :wink:
 
 **Field of Study:** Computer Science :computer:
 **Year:** 2 :beginner:
