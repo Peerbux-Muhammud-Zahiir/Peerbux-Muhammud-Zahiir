@@ -1,10 +1,12 @@
-# Peerbux Muhammud Zahiir :wink:
 
-**Field of Study:** Computer Science :computer:
-**Year:** 2 :beginner:
+**Peerbux Muhammud Zahiir** :wink:
+
+**Field of Study:** Computer Science :computer:  
+**Year:** 2 :beginner:  
 **University:** University of Mauritius :school:
 
-## My Achievements :trophy:
+
+## Achievements :trophy:
 - [GitHub Repositories](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories) :octocat:
 - [Blog Posts](https://www.blogger.com/profile/07510968635379733077) :memo:
 - [Google Drive](https://drive.google.com/drive/folders/11ObnpOsQPGefWHmAsQ-MHpO0ysW4zOpL) :cloud:
@@ -61,3 +63,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 </p>
+
+
+
