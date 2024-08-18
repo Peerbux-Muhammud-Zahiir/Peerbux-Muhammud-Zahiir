@@ -108,6 +108,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=light&layout=compact&border_radius=true" alt="Top Languages">
   </a>
 </p>
+
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&" alt="Peerbux-Muhammud-Zahiir" /></p>
+
+
 <p align="center">
    <a href="https://github.com/Peerbux-Muhammud-Zahiir?tab=followers">
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Peerbux-Muhammud-Zahiir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
