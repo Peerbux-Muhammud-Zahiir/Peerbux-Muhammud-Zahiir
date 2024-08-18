@@ -1,7 +1,8 @@
-<img src=".\assets\images\img1.gif" width="400" aline="center">
+
 
 ## About :information_source:
 
+<img src=".\assets\images\img1.gif" width="100" aline="center">
 
 **Peerbux Muhammud Zahiir** :wink:
 
@@ -17,6 +18,9 @@
 
 ## Social Media Links :link:
 - [LinkedIn](https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) :briefcase:
+
+
+
 
 ## Skills and Technologies :wrench:
 
@@ -67,6 +71,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 </p>
+
+
+
+## GitHub Stats :chart_with_upwards_trend:
+
+<a href="https://github.com/Peerbux-Muhammud-Zahiir">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&layout=compact&border_radius=true">
+</a>
+
+<a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=tokyonight&border_radius=true">
+</a>
+
+<a href="https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&repo=NutriCare_app&border_radius=true">
+</a>
+
+<a href="https://github.com/Peerbux-Muhammud-Zahiir/ZN-TECH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&repo=ZN-TECH&border_radius=true">
+</a>
 
 
 
