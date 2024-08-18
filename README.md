@@ -37,11 +37,15 @@
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
   </a>
+  
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/cpp/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
@@ -67,9 +71,7 @@
   <a href="https://docs.microsoft.com/en-us/windows/wsl/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="WSL" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
+  
 </p>
 
 
