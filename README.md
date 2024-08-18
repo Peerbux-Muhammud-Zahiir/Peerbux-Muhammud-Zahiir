@@ -16,7 +16,7 @@
 
 ## Achievements :trophy:
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/Peerbux-Muhammud-Zahiir">
     <img alt="GitHub Profile" title="Visit my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
 
