@@ -22,7 +22,7 @@
 
 
 
-## Skills and Technologies :wrench:
+## Tech stack :wrench:
 
 <p align="center">
   <a href="https://www.w3.org/html/">
