@@ -1,5 +1,4 @@
 
-<img src="./images/img1" width='400' aline="center"/>
 
 ## About :information_source:
 
