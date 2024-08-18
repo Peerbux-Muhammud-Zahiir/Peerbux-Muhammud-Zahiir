@@ -16,7 +16,7 @@
 - [Blog Posts](https://www.blogger.com/profile/07510968635379733077) :memo:
 - [Google Drive](https://drive.google.com/drive/folders/11ObnpOsQPGefWHmAsQ-MHpO0ysW4zOpL) :cloud:
 
-## Social Media Links :link:
+## Social Media :link:
 - [LinkedIn](https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) :briefcase:
 
 
