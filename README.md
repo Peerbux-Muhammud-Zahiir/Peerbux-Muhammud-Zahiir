@@ -1,4 +1,4 @@
-
+<img src=".\assets\images\img1.gif" width="400" aline="center">
 
 ## About :information_source:
 
