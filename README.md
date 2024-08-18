@@ -16,17 +16,24 @@
 
 ## Achievements :trophy:
 
-- [**GitHub Repositories**](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories) :octocat:
-- [**Blog Posts**](https://www.blogger.com/profile/07510968635379733077) :memo:
-- [**Google Drive**](https://drive.google.com/drive/folders/11ObnpOsQPGefWHmAsQ-MHpO0ysW4zOpL) :cloud:
+<a href="https://github.com/your-username">
+    <img alt="GitHub Profile" title="Visit my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+</a>
+
+<br>
+<a href="https://www.blogger.com/profile/07510968635379733077">
+      <img alt="Blog Posts" title="Read my Blog" src="https://custom-icon-badges.demolab.com/badge/Blog%20Posts-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=FF5722"/></a>
+      <br>
+<a href="https://drive.google.com/drive/folders/your-folder-id">
+    <img alt="Google Drive" title="Visit my Google Drive" src="https://custom-icon-badges.demolab.com/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4"/>
+</a>
 
 
 
 ## Social Media :link:
 
-- [**LinkedIn**](https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) :briefcase:
-
-
+   <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
 
 ## Tech Stack :wrench:
 
@@ -120,12 +127,9 @@
 <p align="center">
    <a href="https://github.com/Peerbux-Muhammud-Zahiir?tab=followers">
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Peerbux-Muhammud-Zahiir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    
    <a href="https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Peerbux-Muhammud-Zahiir?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-   <a href="https://www.blogger.com/profile/07510968635379733077">
-      <img alt="Blog Posts" title="Read my Blog" src="https://custom-icon-badges.demolab.com/badge/Blog%20Posts-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=FF5722"/></a>
-</p>
+    
 
  [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
