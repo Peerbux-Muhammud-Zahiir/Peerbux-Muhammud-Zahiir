@@ -1,14 +1,17 @@
 
-<p align="center">
-    <img src="./assets/images/e20fc729bc7b00217d8a1e90281f266025a78a161e3686ccff752f8a6c165522.0.gif" width="300" alt="Profile Image">
+
+
+<div align="center">
+    <img src="./assets/images/e20fc729bc7b00217d8a1e90281f266025a78a161e3686ccff752f8a6c165522.0.gif" width="400" alt="Profile Image">
+</div>
+<p align="left">
+    
+   
+ ## About :information_source:
+    
+**Zahiir Peerbux** 👨‍💻 is a passionate Computer Science student at the University of Mauritius 🎓, currently in his second year of studies. He has a strong interest in web and mobile app development 🌐📱, with a focus on using technologies like Flutter, JavaScript, and Python 💻. Zahiir is dedicated to expanding his knowledge and skills in the tech industry, actively participating in hackathons 🚀, contributing to GitHub projects 🛠️, and continually seeking new challenges to enhance his expertise. He is committed to creating innovative solutions that make a meaningful impact 🌟.
 </p>
 
-## About :information_source:
-- **Zahiir Peerbux** :tipping_hand_man:
-- **Field of Study:** Computer Science :computer:  
-- **Year:** 2 :beginner:  
-- **University:** University of Mauritius :school:
- 
 
 
 ## Achievements :trophy:
@@ -124,3 +127,5 @@
    <a href="https://www.blogger.com/profile/07510968635379733077">
       <img alt="Blog Posts" title="Read my Blog" src="https://custom-icon-badges.demolab.com/badge/Blog%20Posts-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=FF5722"/></a>
 </p>
+
+ [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
