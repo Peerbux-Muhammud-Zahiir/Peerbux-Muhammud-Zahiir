@@ -1,5 +1,5 @@
 
-<img src="images/img1.mp4" aline="center" width="400">
+<img src="./images/img1" width='400' aline="center"/>
 
 ## About :information_source:
 
