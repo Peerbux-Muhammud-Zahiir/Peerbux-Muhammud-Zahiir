@@ -17,7 +17,9 @@
 - **Field of Study:** Computer Science :computer:  
 - **Year:** 2 :beginner:  
 - **University:** University of Mauritius :school:
-
+<p align="left">
+    <img src="./assets/images/Mauritius.gif" width="100" alt="Profile Image">
+</p>
 
 
 ## Achievements :trophy:
