@@ -87,25 +87,25 @@
 
 <p align="center">
   <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=tokyonight&border_radius=true" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&repo=NutriCare_app&border_radius=true" alt="NutriCare App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=light&repo=NutriCare_app&border_radius=true" alt="NutriCare App">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Peerbux-Muhammud-Zahiir/ZN-TECH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&repo=ZN-TECH&border_radius=true" alt="ZN-TECH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=light&repo=ZN-TECH&border_radius=true" alt="ZN-TECH">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Peerbux-Muhammud-Zahiir">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&layout=compact&border_radius=true" alt="Top Languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=light&layout=compact&border_radius=true" alt="Top Languages">
   </a>
 </p>
 <p align="center">
