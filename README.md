@@ -2,27 +2,33 @@
 
 ## About :information_source:
 
-<img src=".\assets\images\img1.gif" width="100" aline="center">
+<p align="center">
+    <img src="./assets/images/e20fc729bc7b00217d8a1e90281f266025a78a161e3686ccff752f8a6c165522.0.gif" width="400" alt="Profile Image">
+</p>
 
-**Peerbux Muhammud Zahiir** :wink:
+### Peerbux Muhammud Zahiir :wink:
 
-**Field of Study:** Computer Science :computer:  
-**Year:** 2 :beginner:  
-**University:** University of Mauritius :school:
+- **Field of Study:** Computer Science :computer:  
+- **Year:** 2 :beginner:  
+- **University:** University of Mauritius :school:
+
 
 
 ## Achievements :trophy:
-- [GitHub Repositories](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories) :octocat:
-- [Blog Posts](https://www.blogger.com/profile/07510968635379733077) :memo:
-- [Google Drive](https://drive.google.com/drive/folders/11ObnpOsQPGefWHmAsQ-MHpO0ysW4zOpL) :cloud:
+
+- [**GitHub Repositories**](https://github.com/Peerbux-Muhammud-Zahiir?tab=repositories) :octocat:
+- [**Blog Posts**](https://www.blogger.com/profile/07510968635379733077) :memo:
+- [**Google Drive**](https://drive.google.com/drive/folders/11ObnpOsQPGefWHmAsQ-MHpO0ysW4zOpL) :cloud:
+
+
 
 ## Social Media :link:
-- [LinkedIn](https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) :briefcase:
+
+- [**LinkedIn**](https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) :briefcase:
 
 
 
-
-## Tech stack :wrench:
+## Tech Stack :wrench:
 
 <p align="center">
   <a href="https://www.w3.org/html/">
@@ -37,7 +43,6 @@
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
   </a>
-  
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -71,28 +76,33 @@
   <a href="https://docs.microsoft.com/en-us/windows/wsl/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="WSL" width="40" height="40"/>
   </a>
-  
 </p>
 
 
 
 ## GitHub Stats :chart_with_upwards_trend:
 
-<a href="https://github.com/Peerbux-Muhammud-Zahiir">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&layout=compact&border_radius=true">
-</a>
+<p align="center">
+  <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=tokyonight&border_radius=true" alt="GitHub Stats">
+  </a>
+</p>
 
-<a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=tokyonight&border_radius=true">
-</a>
+<p align="center">
+  <a href="https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&repo=NutriCare_app&border_radius=true" alt="NutriCare App">
+  </a>
+</p>
 
-<a href="https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&repo=NutriCare_app&border_radius=true">
-</a>
+<p align="center">
+  <a href="https://github.com/Peerbux-Muhammud-Zahiir/ZN-TECH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&repo=ZN-TECH&border_radius=true" alt="ZN-TECH">
+  </a>
+</p>
 
-<a href="https://github.com/Peerbux-Muhammud-Zahiir/ZN-TECH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&repo=ZN-TECH&border_radius=true">
-</a>
-
-
+<p align="center">
+  <a href="https://github.com/Peerbux-Muhammud-Zahiir">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=tokyonight&layout=compact&border_radius=true" alt="Top Languages">
+  </a>
+</p>
 
