@@ -1,6 +1,5 @@
 
 
-## About :information_source:
 
 
 
@@ -9,10 +8,14 @@
     <img src="./assets/images/e20fc729bc7b00217d8a1e90281f266025a78a161e3686ccff752f8a6c165522.0.gif" width="400" alt="Profile Image">
 </p>
 
+
+
 <p align="center">
     <img src="./assets/images/Zahiir-Peerbux.gif" width="400" alt="Profile Image">
 </p>
 
+
+## About :information_source:
 
 - **Field of Study:** Computer Science :computer:  
 - **Year:** 2 :beginner:  
