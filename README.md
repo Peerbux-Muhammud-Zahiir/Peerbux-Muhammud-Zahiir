@@ -3,15 +3,16 @@
 
 <div align="center">
     <img src="./assets/images/e20fc729bc7b00217d8a1e90281f266025a78a161e3686ccff752f8a6c165522.0.gif" width="300" alt="Profile Image">
-</div>
+
 <p align="left">
     
    
  ## About :information_source:
+ </div>
     
 **Zahiir Peerbux** 👨‍💻 is a passionate Computer Science student at the University of Mauritius 🎓, currently in his second year of studies. He has a strong interest in web and mobile app development 🌐📱, with a focus on using technologies like Flutter, JavaScript, and Python 💻. Zahiir is dedicated to expanding his knowledge and skills in the tech industry, actively participating in hackathons 🚀, contributing to GitHub projects 🛠️, and continually seeking new challenges to enhance his expertise. He is committed to creating innovative solutions that make a meaningful impact 🌟.
 </p>
-
+<div align=center>
 
 
 ## Achievements :trophy:
@@ -34,6 +35,8 @@
 
    <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
+
+
 
 ## Tech Stack :wrench:
 
@@ -133,3 +136,6 @@
     
 
  [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+
+</div>
