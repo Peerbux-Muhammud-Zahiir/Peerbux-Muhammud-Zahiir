@@ -1,19 +1,20 @@
 <div align="center">
     
-    
-</div>
-
-<div align="center">
-    <img src="./assets/images/run-12055.gif" width="600" alt="Profile Image">
+<img alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<br>
 </div>
 
 
 
-## About :information_source:
+
+
+## About <img src="./assets/images/ZNec.gif" width="25" alt="Profile Image">
 
 **Zahiir Peerbux** 👨‍💻 is a passionate Computer Science student at the University of Mauritius 🎓, currently in his second year of studies. He has a strong interest in web and mobile app development 🌐📱, with a focus on using technologies like Flutter, JavaScript, and Python 💻. Zahiir is dedicated to expanding his knowledge and skills in the tech industry, actively participating in hackathons 🚀, contributing to GitHub projects 🛠️, and continually seeking new challenges to enhance his expertise. He is committed to creating innovative solutions that make a meaningful impact 🌟.
 
-## Achievements <img src="./assets/images/ZNec.gif" width="25" alt="Profile Image">
+## Achievements <img src="./assets/images/run-12055.gif" width="50" alt="Profile Image">
+
+
     
 
 <div align="center">
