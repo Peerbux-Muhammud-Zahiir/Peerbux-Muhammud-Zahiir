@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/images/e20fc729bc7b00217d8a1e90281f266025a78a161e3686ccff752f8a6c165522.0.gif" width="300" alt="Profile Image">
+    <img src="./assets/images/a7e88a80668d52e2120812094f9b7e94233051ba4d3c20b0bfb0dd2ae6df9948.0 (1).gif" width="300" alt="Profile Image">
 </div>
 
 ## About :information_source:
