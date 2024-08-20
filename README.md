@@ -1,6 +1,6 @@
 <div align="center">
     
-<img alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img alt="Coder GIF"  width=100%  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <br>
 </div>
 
@@ -8,12 +8,11 @@
 
 
 
-## About <img src="./assets/images/ZNec.gif" width="25" alt="Profile Image">
+## About :information_desk_person:
 
-**Zahiir Peerbux** 👨‍💻 is a passionate Computer Science student at the University of Mauritius 🎓, currently in his second year of studies. He has a strong interest in web and mobile app development 🌐📱, with a focus on using technologies like Flutter, JavaScript, and Python 💻. Zahiir is dedicated to expanding his knowledge and skills in the tech industry, actively participating in hackathons 🚀, contributing to GitHub projects 🛠️, and continually seeking new challenges to enhance his expertise. He is committed to creating innovative solutions that make a meaningful impact 🌟.
+**Zahiir Peerbux** :man_technologist: is a passionate Computer Science student at the University of Mauritius :mauritius:, currently in his second year of studies. He has a strong interest in web and mobile app development, with a focus on using technologies like Flutter, JavaScript, and Python :eyes:. Zahiir is dedicated to expanding his knowledge and skills in the tech industry, actively participating in hackathons :rocket:, contributing to GitHub projects 🛠️, and continually seeking new challenges :zap: to enhance his expertise. He is committed to creating innovative solutions that make a meaningful impact :fire:.
 
-## Achievements <img src="./assets/images/run-12055.gif" width="50" alt="Profile Image">
-
+## Achievements :1st_place_medal:
 
     
 
@@ -31,7 +30,7 @@
     </a>
 </div>
 
-## Social Media :link:
+## Social Media :bell:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -39,7 +38,7 @@
     </a>
 </div>
 
-## Tech Stack :wrench:
+## Tech Stack :books:
 
 <div align="center">
     <a href="https://www.w3.org/html/">
@@ -92,7 +91,7 @@
     </a>
 </div>
 
-## GitHub Stats :chart_with_upwards_trend:
+## GitHub Stats :abacus:
 
 <div align="center">
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
