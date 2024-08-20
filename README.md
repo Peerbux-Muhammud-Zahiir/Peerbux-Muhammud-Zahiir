@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="./assets/images/a7e88a80668d52e2120812094f9b7e94233051ba4d3c20b0bfb0dd2ae6df9948.0 (1).gif" width="300" alt="Profile Image">
+    <img src="./assets/images/ZNec.gif" width="50" alt="Profile Image">
+    <img src="./assets/images/ZNec.gif" width="50" alt="Profile Image">
+    <img src="./assets/images/ZNec.gif" width="50" alt="Profile Image">
 </div>
 
 ## About :information_source:
