@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="./assets/images/e20fc729bc7b00217d8a1e90281f266025a78a161e3686ccff752f8a6c165522.0.gif" width="400" alt="Profile Image">
+    <img src="./assets/images/e20fc729bc7b00217d8a1e90281f266025a78a161e3686ccff752f8a6c165522.0.gif" width="300" alt="Profile Image">
 </div>
 <p align="left">
     
