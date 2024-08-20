@@ -1,6 +1,6 @@
 <div align="center">
     
-<img alt="Coder GIF"  width=100%  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img alt="Coder GIF"  width=50% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <br>
 </div>
 
