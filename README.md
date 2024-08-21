@@ -94,7 +94,7 @@
 ## GitHub Stats :abacus:
 
 <div align="center">
-    <img src="./assets/images/run-12055.gif" alt="running robot" width=40%>
+    <img src="./assets/images/run-12055.gif" alt="running robot" width=50%>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats"/>
