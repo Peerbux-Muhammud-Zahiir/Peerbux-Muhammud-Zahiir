@@ -1,21 +1,20 @@
 
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40%">
+    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="25%">
 </div>
 
 
 
 
 
-## About :information_desk_person:
+ ## About <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="25">&nbsp;
 
 **Zahiir Peerbux** :wave: is a passionate Computer Science student at the University of Mauritius :mauritius:, currently in his second year of studies. He has a strong interest in web and mobile app development, with a focus on using technologies like Flutter, JavaScript, and Python :eyes:. Zahiir is dedicated to expanding his knowledge and skills in the tech industry, actively participating in hackathons :rocket:, contributing to GitHub projects 🛠️, and continually seeking new challenges :zap: to enhance his expertise. He is committed to creating innovative solutions that make a meaningful impact :fire:.
+<br>
 
-## Achievements :1st_place_medal:
 
-    
-
+## Achievements  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;
 <div align="center">
     <a href="https://github.com/Peerbux-Muhammud-Zahiir">
         <img alt="GitHub Profile" title="Visit my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
@@ -29,14 +28,18 @@
         <img alt="Google Drive" title="Visit my Google Drive" src="https://custom-icon-badges.demolab.com/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4"/>
     </a>
 </div>
+<br>
 
-## Social Media :bell:
+
+## Social Media <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="25">
 
 <div align="center">
     <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
     </a>
 </div>
+<br>
+
 
 ## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
 <br><br>
@@ -93,11 +96,12 @@
     </a>
 </div>
 
+
 ## GitHub Stats :abacus:
 
 <div align="center">
-    <img src="./assets/images/run-12055.gif" alt="running robot" width=50%>
-    <br>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+<br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats"/>
     </a>
@@ -116,6 +120,7 @@
     <br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&" alt="GitHub Streak"/>
 </div>
+
 
 ## GitHub Metrics :bar_chart:
 
