@@ -1,6 +1,7 @@
+
+
 <div align="center">
-    
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="50%">
+    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="30%">
 </div>
 
 
@@ -9,7 +10,7 @@
 
 ## About :information_desk_person:
 
-**Zahiir Peerbux** :man_technologist: is a passionate Computer Science student at the University of Mauritius :mauritius:, currently in his second year of studies. He has a strong interest in web and mobile app development, with a focus on using technologies like Flutter, JavaScript, and Python :eyes:. Zahiir is dedicated to expanding his knowledge and skills in the tech industry, actively participating in hackathons :rocket:, contributing to GitHub projects 🛠️, and continually seeking new challenges :zap: to enhance his expertise. He is committed to creating innovative solutions that make a meaningful impact :fire:.
+**Zahiir Peerbux** :wave: is a passionate Computer Science student at the University of Mauritius :mauritius:, currently in his second year of studies. He has a strong interest in web and mobile app development, with a focus on using technologies like Flutter, JavaScript, and Python :eyes:. Zahiir is dedicated to expanding his knowledge and skills in the tech industry, actively participating in hackathons :rocket:, contributing to GitHub projects 🛠️, and continually seeking new challenges :zap: to enhance his expertise. He is committed to creating innovative solutions that make a meaningful impact :fire:.
 
 ## Achievements :1st_place_medal:
 
@@ -37,7 +38,9 @@
     </a>
 </div>
 
-## Tech Stack :books:
+## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
+<br><br>
+
 
 <div align="center">
     <a href="https://www.w3.org/html/">
