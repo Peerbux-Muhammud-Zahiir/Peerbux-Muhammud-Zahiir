@@ -1,6 +1,6 @@
 <div align="center">
     
-<img alt="Coder GIF"  width=75% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img alt="Coder GIF"  width=50% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 <br>
 </div>
 
@@ -94,7 +94,8 @@
 ## GitHub Stats :abacus:
 
 <div align="center">
-    <img src="./assets/images/run-12055.gif" alt="running robot" width=75%>
+    <img src="./assets/images/run-12055.gif" alt="running robot" width=25%>
+    <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats"/>
     </a>
