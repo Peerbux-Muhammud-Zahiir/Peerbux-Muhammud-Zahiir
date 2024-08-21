@@ -1,7 +1,6 @@
 <div align="center">
     
-<img alt="Coder GIF"  width=50% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="50%">
 </div>
 
 
@@ -126,3 +125,5 @@
         <img alt="GitHub Stars" title="Stars" src="https://custom-icon-badges.demolab.com/badge/Stars-FABF00?style=for-the-badge&logo=github&logoColor=black&labelColor=FABF00"/>
     </a>
 </div>
+<br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width=100%>
