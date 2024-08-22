@@ -1,6 +1,5 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%">
-<br><br>
 </div>
 
  ## About <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="25">&nbsp;
@@ -22,8 +21,6 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
         <img alt="Google Drive" title="Visit my Google Drive" src="https://custom-icon-badges.demolab.com/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4"/>
     </a>
 </div>
-<br>
-
 
 ## Social Media <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="25">
 
@@ -32,21 +29,12 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
     </a>
 </div>
-<br>
-
 
 ## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
-<br><br>
+
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50%">
-<br><br>
 </div>
-
-
-<br><br>
-
-
-
 
 <div align="center">
     <a href="https://www.w3.org/html/">
@@ -99,12 +87,11 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     </a>
 </div>
 
-
 ## GitHub Stats :abacus:
 
 <div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
-<br>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="50%">
+    <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats"/>
     </a>
@@ -131,10 +118,8 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     <a href="https://github.com/Peerbux-Muhammud-Zahiir?tab=followers">
         <img alt="GitHub Followers" title="Followers" src="https://custom-icon-badges.demolab.com/badge/Followers-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
     </a>
-    <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir?tab=stars">
         <img alt="GitHub Stars" title="Stars" src="https://custom-icon-badges.demolab.com/badge/Stars-FABF00?style=for-the-badge&logo=github&logoColor=black&labelColor=FABF00"/>
     </a>
 </div>
-<br>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width=100%>
