@@ -12,11 +12,9 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     <a href="https://github.com/Peerbux-Muhammud-Zahiir">
         <img alt="GitHub Profile" title="Visit my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
     </a>
-    <br>
     <a href="https://www.blogger.com/profile/07510968635379733077">
         <img alt="Blog Posts" title="Read my Blog" src="https://custom-icon-badges.demolab.com/badge/Blog%20Posts-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=FF5722"/>
     </a>
-    <br>
     <a href="https://drive.google.com/drive/folders/1dYOmQuuSkQR8mTMJkgVNOyKlVi-ixDbN">
         <img alt="Google Drive" title="Visit my Google Drive" src="https://custom-icon-badges.demolab.com/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4"/>
     </a>
@@ -28,7 +26,19 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
     </a>
+    <a href="https://x.com/ZahiirPeerbux?t=0sc2Q61P2HO_kBjSYYthqQ&s=09">
+        <img alt="X
+            Twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+    </a>
+    <a href="https://www.facebook.com/share/QwZdCiCbswiUdnsR/?mibextid=qi2Omg">
+        <img alt="Facebook" title="Connect with me on Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
+    </a>
+    <a href="https://www.instagram.com/zahiirpeerbux?igsh=MWh5Z2dhdWRkcnFxaw==">
+        <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
+    </a>
 </div>
+
+
 
 ## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
 
