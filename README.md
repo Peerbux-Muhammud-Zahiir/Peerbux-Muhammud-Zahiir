@@ -1,7 +1,7 @@
 ## Hello there! 👋 I'm Zahiir!
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="50%">
+<img src="https://media.tenor.com/vDdpdQ45DBEAAAAi/peach-goma-hello-peach-and-goma.gif" width="50%">
 
 
     
