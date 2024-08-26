@@ -1,4 +1,4 @@
-## Hello there! 👋 I'm Zahiir!
+# Hello there! 👋 I'm Zahiir!
 <div align="center">
 
 <img src="https://media.tenor.com/vDdpdQ45DBEAAAAi/peach-goma-hello-peach-and-goma.gif" width="50%">
@@ -108,22 +108,22 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="40%">
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats" width=60%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=light&repo=NutriCare_app&border_radius=true" alt="NutriCare App"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=light&repo=NutriCare_app&border_radius=true" alt="NutriCare App" width=60%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/ZN-TECH">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=light&repo=ZN-TECH&border_radius=true" alt="ZN-TECH"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=light&repo=ZN-TECH&border_radius=true" alt="ZN-TECH" width=60%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=light&layout=compact&border_radius=true" alt="Top Languages"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=light&layout=compact&border_radius=true" alt="Top Languages" width=60%/>
     </a>
     <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&" alt="GitHub Streak"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&" alt="GitHub Streak" width=60%/>
 </div>
 
 
