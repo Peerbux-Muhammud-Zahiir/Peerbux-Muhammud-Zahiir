@@ -1,10 +1,15 @@
+## Hello there! 👋 I'm Zahiir!
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%">
+
+
+    
 </div>
 
- ## About <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="25">&nbsp;
+ ## Bio <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="25">&nbsp;
 
-**Hello there! 👋 I'm Zahiir!**  
+
 I'm currently in my second year of studies, and while I haven't settled on a niche yet, you can find me hopping from penetration testing to creating awesome web and mobile apps with integrated AI. If you find my work interesting, feel free to follow me! 🚀
 
 ## Achievements  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;
@@ -100,7 +105,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
 ## GitHub Stats :abacus:
 
 <div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="50%">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="40%">
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats"/>
