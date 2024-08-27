@@ -134,5 +134,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
         <img alt="GitHub Stars" title="Stars" src="https://custom-icon-badges.demolab.com/badge/Stars-FABF00?style=for-the-badge&logo=github&logoColor=black&labelColor=FABF00"/>
     </a>
 </div>
+<div align="center">
+    <img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" width=50%>
+</div>
 
-<img src="https://media.licdn.com/dms/image/D4D12AQFS_42v39bhsA/article-cover_image-shrink_720_1280/0/1675016970735?e=2147483647&v=beta&t=wOs8YZDdO5kKmEb_8__SAMoxOWqRW16MolvuhQSY9JI" width=100%>
