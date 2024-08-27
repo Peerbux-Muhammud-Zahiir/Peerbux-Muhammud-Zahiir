@@ -134,5 +134,5 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
         <img alt="GitHub Stars" title="Stars" src="https://custom-icon-badges.demolab.com/badge/Stars-FABF00?style=for-the-badge&logo=github&logoColor=black&labelColor=FABF00"/>
     </a>
 </div>
-<br>
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ3MDMyOTIsIm5iZiI6MTcyNDcwMjk5MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI2VDIwMDk1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlMGNiNGMxZTZmOGYxNjhkNmY0NGFkYTBmOWExZDBiMmE0YmNmNWIzNDNjN2UyODg5MDU0Nzc5MDc0YzYxYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LOcmUCIr0QUXa0Ew5YgS6qArh1Y2xqM9cXso5LjOwbU" width=100%>
+
+<img src="https://media.licdn.com/dms/image/D4D12AQFS_42v39bhsA/article-cover_image-shrink_720_1280/0/1675016970735?e=2147483647&v=beta&t=wOs8YZDdO5kKmEb_8__SAMoxOWqRW16MolvuhQSY9JI" width=100%>
