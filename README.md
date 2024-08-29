@@ -138,7 +138,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     <img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" width=50%>
 </div>
 
-## Daily Developer Quote :thinking:
+## Random Developer Quote :thinking:
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
