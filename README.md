@@ -4,7 +4,7 @@
     <img src="https://media.tenor.com/vDdpdQ45DBEAAAAi/peach-goma-hello-peach-and-goma.gif" width="40%">
 </div>
 
- ## Bio <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="4%">&nbsp;
+ ## Bio :blush:
 
 
 I'm currently in my second year of studies, and while I haven't settled on a niche yet, you can find me hopping from penetration testing to creating awesome web and mobile apps with integrated AI. If you find my work interesting, feel free to follow me! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="2.5%">&nbsp;
