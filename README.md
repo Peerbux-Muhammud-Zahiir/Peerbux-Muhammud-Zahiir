@@ -1,4 +1,4 @@
-# Hello there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=5%> I'm Zahiir!
+# Hello there! :wave: I'm Zahiir!
 
 <div align="center">
     <img src="https://media.tenor.com/vDdpdQ45DBEAAAAi/peach-goma-hello-peach-and-goma.gif" width="40%">
