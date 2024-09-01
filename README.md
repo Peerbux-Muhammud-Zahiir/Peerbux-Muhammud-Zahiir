@@ -1,7 +1,7 @@
 # Hello there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=5%> I'm Zahiir!
 
 <div align="center">
-    <img src="https://media.tenor.com/vDdpdQ45DBEAAAAi/peach-goma-hello-peach-and-goma.gif" width="50%">
+    <img src="https://media.tenor.com/vDdpdQ45DBEAAAAi/peach-goma-hello-peach-and-goma.gif" width="40%">
 </div>
 
  ## Bio <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="5%">&nbsp;
@@ -137,7 +137,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     </a>
 </div>
 <div align="center">
-    <img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" width=50%>
+    <img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" width=40%>
 </div>
 
 ## Random Quote :thinking:
