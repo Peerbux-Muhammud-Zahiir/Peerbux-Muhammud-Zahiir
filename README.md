@@ -122,7 +122,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=transparent&layout=compact&border_radius=true" alt="Top Languages" width=80%/>
     </a>
     <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&" alt="GitHub Streak" width=80%/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&theme=transparent" alt="GitHub Streak" width=80%/>
 </div>
 
 
