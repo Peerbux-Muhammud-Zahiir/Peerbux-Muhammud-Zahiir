@@ -107,19 +107,19 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="35%">
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=system&border_radius=true" alt="GitHub Stats" width=80%/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=transparent&border_radius=true" alt="GitHub Stats" width=80%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=system&repo=NutriCare_app&border_radius=true" alt="NutriCare App" width=80%/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=transparent&repo=NutriCare_app&border_radius=true" alt="NutriCare App" width=80%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/ZN-TECH">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=system&repo=ZN-TECH&border_radius=true" alt="ZN-TECH" width=80%/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=transparent&repo=ZN-TECH&border_radius=true" alt="ZN-TECH" width=80%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=system&layout=compact&border_radius=true" alt="Top Languages" width=80%/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=transparent&layout=compact&border_radius=true" alt="Top Languages" width=80%/>
     </a>
     <br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&" alt="GitHub Streak" width=80%/>
