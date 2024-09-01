@@ -47,7 +47,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
 ## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="5%">
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70%">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50%">
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
 ## GitHub Stats :abacus:
 
 <div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60%">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="40%">
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=light&border_radius=true" alt="GitHub Stats" width=80%/>
