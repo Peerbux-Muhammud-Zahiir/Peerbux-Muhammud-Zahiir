@@ -7,9 +7,11 @@
  ## Bio <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="25">&nbsp;
 
 
-I'm currently in my second year of studies, and while I haven't settled on a niche yet, you can find me hopping from penetration testing to creating awesome web and mobile apps with integrated AI. If you find my work interesting, feel free to follow me! 🚀
+I'm currently in my second year of studies, and while I haven't settled on a niche yet, you can find me hopping from penetration testing to creating awesome web and mobile apps with integrated AI. If you find my work interesting, feel free to follow me! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="2.5%">&nbsp;
 
-## Achievements  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;
+## Achievements  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width=5%>
+
+
 <div align="center">
     <a href="https://github.com/Peerbux-Muhammud-Zahiir">
         <img alt="GitHub Profile" title="Visit my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
