@@ -4,7 +4,7 @@
     <img src="https://media.tenor.com/vDdpdQ45DBEAAAAi/peach-goma-hello-peach-and-goma.gif" width="50%">
 </div>
 
- ## Bio <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="25">&nbsp;
+ ## Bio <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="5%">&nbsp;
 
 
 I'm currently in my second year of studies, and while I haven't settled on a niche yet, you can find me hopping from penetration testing to creating awesome web and mobile apps with integrated AI. If you find my work interesting, feel free to follow me! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="2.5%">&nbsp;
@@ -24,7 +24,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     </a>
 </div>
 
-## Social Media <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="25">
+## Social Media <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="5%">
 
 <div align="center">
     <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -44,7 +44,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
 
 
 
-## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
+## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="5%">
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70%">
