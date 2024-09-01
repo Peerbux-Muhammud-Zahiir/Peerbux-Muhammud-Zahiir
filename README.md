@@ -146,3 +146,5 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
     
 </div>
+
+#
