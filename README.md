@@ -24,7 +24,7 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
     </a>
 </div>
 
-## Social Media <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="4%">
+## Social Media :bell:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
