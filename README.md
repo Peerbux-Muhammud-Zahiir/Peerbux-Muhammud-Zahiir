@@ -130,9 +130,6 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
         <img alt="GitHub Stars" title="Stars" src="https://custom-icon-badges.demolab.com/badge/Stars-FABF00?style=for-the-badge&logo=github&logoColor=black&labelColor=FABF00"/>
     </a>
 </div>
-<div align="center">
-    <img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" width=30%>
-</div>
 
 ## Random Quote :thinking:
 <div align="center">
