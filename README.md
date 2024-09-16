@@ -101,22 +101,22 @@ I'm currently in my second year of studies, and while I haven't settled on a nic
 ## GitHub Stats :abacus:
 <div align="center">
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=transparent&border_radius=true" alt="GitHub Stats" width=60%/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peerbux-Muhammud-Zahiir&count_private=true&show_icons=true&theme=transparent&border_radius=true" alt="GitHub Stats" width=80%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/NutriCare_app">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=transparent&repo=NutriCare_app&border_radius=true" alt="NutriCare App" width=60%/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=transparent&repo=NutriCare_app&border_radius=true" alt="NutriCare App" width=80%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir/Computer-Science-Year-2-labsheets-tutorials">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=transparent&repo=Computer-Science-Year-2-labsheets-tutorials&border_radius=true" alt="Computer-Science-Year-2-labsheets-tutorials" width=60%/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peerbux-Muhammud-Zahiir&theme=transparent&repo=Computer-Science-Year-2-labsheets-tutorials&border_radius=true" alt="Computer-Science-Year-2-labsheets-tutorials" width=80%/>
     </a>
     <br>
     <a href="https://github.com/Peerbux-Muhammud-Zahiir">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=transparent&layout=compact&border_radius=true" alt="Top Languages" width=60%/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peerbux-Muhammud-Zahiir&theme=transparent&layout=compact&border_radius=true" alt="Top Languages" width=80%/>
     </a>
     <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&theme=transparent" alt="GitHub Streak" width=60%/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peerbux-Muhammud-Zahiir&theme=transparent" alt="GitHub Streak" width=80%/>
 </div>
 
 
