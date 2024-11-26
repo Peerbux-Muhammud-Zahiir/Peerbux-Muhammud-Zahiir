@@ -133,7 +133,7 @@ I'm currently in my `second` year of studies, and while I haven't settled on a n
 ## Random Quote :thinking:
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=churchill&font=default&quoteType=random&fontColor=teal)
     
 </div>
 
