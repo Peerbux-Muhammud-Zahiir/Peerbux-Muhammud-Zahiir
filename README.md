@@ -119,17 +119,6 @@ I'm currently in my `second` year of studies, and while I haven't settled on a n
 </div>
 
 
-## GitHub Metrics :bar_chart:
-
-<div align="center">
-    <a href="https://github.com/Peerbux-Muhammud-Zahiir?tab=followers">
-        <img alt="GitHub Followers" title="Followers" src="https://custom-icon-badges.demolab.com/badge/Followers-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-    </a>
-    <a href="https://github.com/Peerbux-Muhammud-Zahiir?tab=stars">
-        <img alt="GitHub Stars" title="Stars" src="https://custom-icon-badges.demolab.com/badge/Stars-FABF00?style=for-the-badge&logo=github&logoColor=black&labelColor=FABF00"/>
-    </a>
-</div>
-
 ## Random Quote :thinking:
 <div align="center">
 
