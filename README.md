@@ -1,13 +1,9 @@
 # Hello there! :wave: I'm Zahiir!
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50%">
-</div>
-
  ## Bio :beginner:
 
 
-I'm currently in my `second` year of studies, and while I haven't settled on a niche yet, you can find me hopping from `penetration testing` to creating awesome `web and mobile apps with integrated AI`. If you find my work interesting, feel free to follow me! :rocket:
+I'm currently in my `third` year of studies, and while I haven't settled on a niche yet, you can find me hopping from `penetration testing` to creating awesome `web and mobile apps with integrated AI`. 
 
 ## Achievements  :trophy:
 
@@ -29,15 +25,6 @@ I'm currently in my `second` year of studies, and while I haven't settled on a n
 <div align="center">
     <a href="https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-<a href="https://www.facebook.com/share/QwZdCiCbswiUdnsR/?mibextid=qi2Omg">
-    <img alt="Facebook" title="Connect with me on Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
-</a>
-<a href="https://www.instagram.com/zahiirpeerbux?igsh=MWh5Z2dhdWRkcnFxaw==">
-    <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"/>
-</a>
-<a href="https://x.com/ZahiirPeerbux?t=0sc2Q61P2HO_kBjSYYthqQ&s=09">
-    <img alt="X" title="Follow me on X" src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
 </a>
 </div>
 
@@ -119,10 +106,11 @@ I'm currently in my `second` year of studies, and while I haven't settled on a n
 </div>
 
 
-## Random Quote :thinking:
+## Favorite Quote :blue_heart:
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=churchill&font=default&quoteType=random&fontColor=teal)
+“Stay hungry, stay foolish.” – Steve Jobs
+
     
 </div>
 
