@@ -1,4 +1,4 @@
-# Hello there! :wave: I'm Zahiir!
+# Hi there! :wave: I'm Zahiir!
 
  ## Bio :beginner:
 
